@@ -1,0 +1,376 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 08:08:53] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 08:08:53] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 08:08:57] "GET /search?s=кот HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 08:08:57] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 08:09:00] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 08:09:00] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+ERROR:root:Файл не выбран!
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 08:09:02] "POST /post/add HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 08:09:05] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 08:09:05] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 08:09:07] "GET /search?s=муравей HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 08:09:07] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 08:09:07] "[36mGET /uploads/images/photo_2022-08-31_13-30-15.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 08:11:37] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 08:11:37] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 08:11:41] "GET /search?s=кот HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 08:11:41] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 08:11:43] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 08:11:43] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 08:11:45] "GET /search?s=муравей HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 08:11:45] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 08:11:45] "[36mGET /uploads/images/photo_2022-08-31_13-30-15.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 08:11:47] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 08:11:47] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+ERROR:root:Файл не выбран!
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 08:11:49] "POST /post/add HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 08:13:44] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 08:13:44] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 08:13:49] "GET /search?s=кот HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 08:13:49] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 08:13:56] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 08:13:56] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 08:13:58] "GET /search?s=муравей HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 08:13:58] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 08:13:58] "[36mGET /uploads/images/photo_2022-08-31_13-30-15.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 08:14:01] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 08:14:01] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+ERROR:root:Файл не выбран!
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 08:14:02] "POST /post/add HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 08:18:29] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 08:18:29] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 08:18:33] "GET /search?s=муравей HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 08:18:33] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 08:18:33] "[36mGET /uploads/images/photo_2022-08-31_13-30-15.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 08:18:36] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 08:18:36] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 08:18:38] "GET /search?s=кот HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 08:18:38] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 08:18:40] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 08:18:40] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 08:18:42] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 08:18:42] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+ERROR:root:Файл не выбран!
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 08:18:43] "POST /post/add HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 08:18:49] "GET /search?s=ёжик HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 08:18:49] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 08:20:55] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 08:20:55] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 08:20:59] "GET /search?s=кот HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 08:20:59] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 08:21:03] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 08:21:03] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 08:21:05] "GET /search?s=муравей HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 08:21:05] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 08:21:05] "[36mGET /uploads/images/photo_2022-08-31_13-30-15.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 08:21:07] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 08:21:07] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+ERROR:root:Файл не выбран!
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 08:21:08] "POST /post/add HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 08:21:16] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 08:21:16] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 08:21:19] "GET /search?s=уве HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 08:21:19] "[36mGET /uploads/images/photo_2022-08-31_13-30-15.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 08:21:19] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 08:21:19] "[36mGET /uploads/images/photo_2022-08-31_13-32-21.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 08:28:50] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 08:28:50] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 08:28:53] "GET /search?s=кот HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 08:28:53] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 08:28:56] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 08:28:57] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 08:28:59] "POST /post/add HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 08:29:01] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 08:29:01] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 08:29:04] "GET /search?s=муравей HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 08:29:04] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 08:29:04] "[36mGET /uploads/images/photo_2022-08-31_13-30-15.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 08:42:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 08:42:05] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Запрошены названия по тегу 'кот'
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 08:42:08] "GET /search?s=кот HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 08:42:08] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 08:42:13] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 08:42:13] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Файл не выбран!
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 08:42:16] "POST /post/add HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 08:42:21] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 08:42:21] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Запрошены названия по тегу 'муравей'
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 08:42:23] "GET /search?s=муравей HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 08:42:23] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 08:42:23] "[36mGET /uploads/images/photo_2022-08-31_13-30-15.jpg HTTP/1.1[0m" 304 -
+ERROR:root:Ошибка доступа к файлу
+Traceback (most recent call last):
+  File "G:\pythonProject\home_work_12(v.2)\classes\work_with_file.py", line 18, in reading_file
+    with open(self.data, "r", encoding="utf-8") as file:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'poss.json'
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 08:55:39] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 08:55:40] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 08:55:43] "GET /search?s=кот HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 08:55:43] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 08:55:46] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 08:55:46] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 08:55:47] "POST /post/add HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 08:55:50] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 08:55:50] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 08:55:52] "GET /search?s=муравей HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 08:55:52] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 08:55:52] "[36mGET /uploads/images/photo_2022-08-31_13-30-15.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 09:00:19] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 09:00:19] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Запрошены названия по тегу 'муравей'
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 09:00:22] "GET /search?s=муравей HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 09:00:22] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 09:00:22] "[36mGET /uploads/images/photo_2022-08-31_13-30-15.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 09:00:23] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 09:00:23] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 09:00:24] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 09:00:24] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Файл не выбран!
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 09:00:26] "POST /post/add HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 09:00:28] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 09:00:28] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Запрошены названия по тегу 'кот'
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 09:00:30] "GET /search?s=кот HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 09:00:30] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+ERROR:root:Ошибка доступа к файлу
+Traceback (most recent call last):
+  File "G:\pythonProject\home_work_12(v.2)\classes\work_with_file.py", line 18, in reading_file
+    with open(self.data, "r", encoding="utf-8") as file:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'poss.json'
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 09:05:57] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 09:05:57] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Запрошены названия по тегу 'кот'
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 09:06:00] "GET /search?s=кот HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 09:06:00] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 09:06:02] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 09:06:02] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Запрошены названия по тегу 'уве'
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 09:06:05] "GET /search?s=уве HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 09:06:05] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 09:06:05] "[36mGET /uploads/images/photo_2022-08-31_13-30-15.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 09:06:05] "[36mGET /uploads/images/photo_2022-08-31_13-32-21.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 09:06:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 09:06:06] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 09:06:07] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 09:06:07] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Файл не выбран!
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 09:06:09] "POST /post/add HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 09:06:12] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 09:06:12] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Запрошены названия по тегу 'муравей'
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 09:06:14] "GET /search?s=муравей HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 09:06:14] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 09:06:14] "[36mGET /uploads/images/photo_2022-08-31_13-30-15.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 09:09:40] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 09:09:40] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Запрошены названия по тегу 'кот'
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 09:09:49] "GET /search?s=кот HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 09:09:49] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 09:09:53] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 09:09:53] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Файл не выбран!
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 09:09:55] "POST /post/add HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 09:10:05] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 09:10:05] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Запрошены названия по тегу 'муравей'
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 09:10:07] "GET /search?s=муравей HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 09:10:07] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 09:10:07] "[36mGET /uploads/images/photo_2022-08-31_13-30-15.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 09:15:03] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 09:15:03] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+ERROR:app:Exception on /search [GET]
+Traceback (most recent call last):
+  File "G:\pythonProject\home_work_12(v.2)\venv\Lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "G:\pythonProject\home_work_12(v.2)\venv\Lib\site-packages\flask\app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "G:\pythonProject\home_work_12(v.2)\venv\Lib\site-packages\flask\app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "G:\pythonProject\home_work_12(v.2)\venv\Lib\site-packages\flask\app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "G:\pythonProject\home_work_12(v.2)\main\views.py", line 23, in search_post
+    logging.info(f"Запрошены названия по тегу '{tag}'")
+    ^^^^^^^
+NameError: name 'logging' is not defined
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 09:15:08] "[35m[1mGET /search?s=уве HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 09:15:30] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 09:15:31] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+ERROR:app:Exception on /post/add [POST]
+Traceback (most recent call last):
+  File "G:\pythonProject\home_work_12(v.2)\venv\Lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "G:\pythonProject\home_work_12(v.2)\venv\Lib\site-packages\flask\app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "G:\pythonProject\home_work_12(v.2)\venv\Lib\site-packages\flask\app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "G:\pythonProject\home_work_12(v.2)\venv\Lib\site-packages\flask\app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "G:\pythonProject\home_work_12(v.2)\loader\views.py", line 30, in page_post_upload
+    logging.info("Файл не выбран!")
+    ^^^^^^^
+NameError: name 'logging' is not defined
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 09:15:31] "[35m[1mPOST /post/add HTTP/1.1[0m" 500 -
+ERROR:root:Ошибка доступа к файлу
+Traceback (most recent call last):
+  File "G:\pythonProject\home_work_12(v.2)\classes\work_with_file.py", line 16, in reading_file
+    with open(self.data, "r", encoding="utf-8") as file:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'poss.json'
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 09:19:11] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 09:19:11] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Запрошены названия по тегу 'кот'
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 09:19:14] "GET /search?s=кот HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 09:19:14] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 09:19:23] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 09:19:23] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Запрошены названия по тегу 'муравей'
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 09:19:26] "GET /search?s=муравей HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 09:19:26] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 09:19:26] "[36mGET /uploads/images/photo_2022-08-31_13-30-15.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 09:19:28] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 09:19:28] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 09:19:29] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 09:19:29] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Файл не выбран!
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 09:19:30] "POST /post/add HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 09:21:34] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 09:21:34] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Запрошены названия по тегу 'кот'
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 09:21:37] "GET /search?s=кот HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 09:21:37] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 09:21:39] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 09:21:39] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 09:21:40] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 09:21:40] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+ERROR:root:Файл не выбран!
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 09:21:41] "POST /post/add HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 09:24:11] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 09:24:11] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Запрошены названия по тегу 'муравей'
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 09:24:15] "GET /search?s=муравей HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 09:24:15] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 09:24:15] "[36mGET /uploads/images/photo_2022-08-31_13-30-15.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 09:24:16] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 09:24:16] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Запрошены названия по тегу 'ёжик'
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 09:24:19] "GET /search?s=ёжик HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 09:24:19] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 09:24:20] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 09:24:20] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 09:24:21] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 09:24:21] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+ERROR:root:Файл не выбран!
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 09:24:22] "POST /post/add HTTP/1.1" 200 -
+ERROR:root:Ошибка доступа к файлу
+Traceback (most recent call last):
+  File "G:\pythonProject\home_work_12(v.2)\classes\work_with_file.py", line 16, in reading_file
+    with open(self.data, "r", encoding="utf-8") as file:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'poss.json'
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 09:31:35] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 09:31:35] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Запрошены названия по тегу 'муравей'
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 09:31:38] "GET /search?s=муравей HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 09:31:38] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 09:31:38] "[36mGET /uploads/images/photo_2022-08-31_13-30-15.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 09:31:40] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 09:31:40] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+ERROR:root:Файл не выбран!
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 09:31:41] "POST /post/add HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 09:39:00] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 09:39:00] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Запрошены названия по тегу 'ёжик'
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 09:39:04] "GET /search?s=ёжик HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 09:39:04] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 09:39:04] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 09:39:04] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+ERROR:root:Файл не выбран!
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 09:39:06] "POST /post/add HTTP/1.1" 200 -
+ERROR:root:Ошибка доступа к файлу
+Traceback (most recent call last):
+  File "G:\pythonProject\home_work_12(v.2)\classes\work_with_file.py", line 16, in reading_file
+    with open(self.data, "r", encoding="utf-8") as file:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'poss.json'
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 10:36:57] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 10:36:57] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Запрошены названия по тегу 'муравей'
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 10:37:00] "GET /search?s=муравей HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 10:37:00] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 10:37:00] "[36mGET /uploads/images/photo_2022-08-31_13-30-15.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 10:37:02] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 10:37:02] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+ERROR:root:Файл не выбран!
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 10:37:03] "POST /post/add HTTP/1.1" 200 -
