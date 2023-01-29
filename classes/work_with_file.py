@@ -37,3 +37,6 @@ class FileData:
         data_posts.append(post)
         with open(self.data, "w", encoding="utf-8") as file:
             file.write(json.dumps(data_posts, ensure_ascii=False))
+
+    def __repr__(self):
+        return f"{self.data}"
