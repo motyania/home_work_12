@@ -2,7 +2,7 @@ import logging
 from flask import render_template, Blueprint, request
 from classes.work_with_file import FileData
 
-logging.basicConfig(filename="basic.log", level=logging.INFO)
+logging.basicConfig(filename="basic.log", level=logging.INFO, encoding='utf-8')
 
 POST_PATH = "posts.json"
 main_blueprint = Blueprint("main_blueprint", __name__, template_folder="templates")

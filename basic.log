@@ -377,3 +377,39 @@ INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 10:37:03] "POST /post/add HTTP/1.1" 200
 INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
  * Running on http://127.0.0.1:5000
 INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 14:22:12] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 14:22:13] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Запрошены названия по тегу 'кот'
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 14:22:16] "GET /search?s=кот HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 14:22:16] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 14:22:18] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 14:22:18] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 14:22:19] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 14:22:19] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+ERROR:root:Файл не выбран!
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 14:22:21] "POST /post/add HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 14:22:23] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 14:22:23] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Запрошены названия по тегу 'муравей'
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 14:22:27] "GET /search?s=муравей HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 14:22:27] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 14:22:27] "[36mGET /uploads/images/photo_2022-08-31_13-30-15.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 14:24:48] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 14:24:48] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Р—Р°РїСЂРѕС€РµРЅС‹ РЅР°Р·РІР°РЅРёСЏ РїРѕ С‚РµРіСѓ 'РјСѓСЂР°РІРµР№'
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 14:24:54] "GET /search?s=РјСѓСЂР°РІРµР№ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 14:24:54] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 14:24:54] "[36mGET /uploads/images/photo_2022-08-31_13-30-15.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 14:24:57] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 14:24:57] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Р—Р°РїСЂРѕС€РµРЅС‹ РЅР°Р·РІР°РЅРёСЏ РїРѕ С‚РµРіСѓ 'СѓРІРµ'
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 14:24:59] "GET /search?s=СѓРІРµ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 14:24:59] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 14:24:59] "[36mGET /uploads/images/photo_2022-08-31_13-30-15.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2023 14:24:59] "[36mGET /uploads/images/photo_2022-08-31_13-32-21.jpg HTTP/1.1[0m" 304 -
